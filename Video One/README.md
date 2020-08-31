@@ -13,7 +13,7 @@ In assessment two, you are provided with a notebook with a pretrained English De
 Find the notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mBkmfIhVjcZBYQq3I58A50RwK82uYmRv?usp=sharing)
 
 # Assessment Three
-Finally, in assessment three, you are provided with a Google Colab notebook that has been prepared for tasks on building DeepSpeech models with a pre-loaded dataset, you are required to follow the steps provided in the notebook, and report the Word Error Rate (WER) back to atingi at the end of the notebook.
+Finally, in assessment three, you are provided with a Google Colab notebook that has been prepared for tasks on building DeepSpeech models with a pre-loaded dataset, you are required to follow the steps provided in the notebook, and report the Word Error Rate (WER) at the end of the notebook back to atingi.
 
 Find the notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rIfBp75reqowzpiK3P9e2ZzOBAOwXuUu?usp=sharing)
 
