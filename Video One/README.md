@@ -15,7 +15,7 @@ Find the notebook here: [![Open In Colab](https://colab.research.google.com/asse
 ## Assessment Three
 Finally, in assessment three, you are provided with a Google Colab notebook that has been prepared for tasks on building DeepSpeech models with a pre-loaded dataset, you are required to follow the steps provided in the notebook, and report the Word Error Rate (WER) at the end of the notebook back to atingi.
 
-Find the notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rIfBp75reqowzpiK3P9e2ZzOBAOwXuUu?usp=sharing)
+Find the notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-Lab-Makerere/GIZ-Videos/blob/master/Video%20One/GIZ_Video_One_Assessment_Three_Optional.ipynb)
 
 ## Supplementary Guide
 In this guide, you are given short instructions on how to create a Gmail account and how to use it to access Google Colaboratory. The guide further gives an introduction on how to use Google Colaboratory notebooks.
