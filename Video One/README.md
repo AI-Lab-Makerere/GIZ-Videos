@@ -3,7 +3,7 @@
 This repository contains the assessment notebooks and a supplementary guide to video one assessments.
 
 ## Assessment One
-In this assessment, you are required to contribute to Mozilla's Common Voice Platform by both speaking out five sentences in English and validating five English sentences that already on the platform. You will then report back to atingi on your contributions.
+In this assessment, you are required to contribute to Mozilla's Common Voice Platform by both speaking out five sentences in English and validating five English sentences that are already on the platform. You will then report back to atingi on your contributions.
 
 [Walk through guide](https://docs.google.com/presentation/d/1_x7WQQgyhZqHJfy60TipgUjyh0Ypy1DEzjZ036kbNNw/edit?usp=sharing)
 
