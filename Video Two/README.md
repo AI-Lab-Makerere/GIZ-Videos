@@ -11,6 +11,6 @@ Find the notebook here: [![Open In Colab](https://colab.research.google.com/asse
 
 
 ## Assessment Two
-In this assessment, you will convert select image files  the [TIFF](https://en.wikipedia.org/wiki/TIFF) format, the preferred format for storing geospatial data, raster graphics etc.
+In this assessment, you will folllow thrpugh an application of building a classification model for classifying crop types against field IDs in a satellite image. 
 
 Find the notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/AI-Lab-Makerere/GIZ-Videos/blob/master/Video%20Two/GIZ_Video_Two,_Assessment_Two.ipynb)
